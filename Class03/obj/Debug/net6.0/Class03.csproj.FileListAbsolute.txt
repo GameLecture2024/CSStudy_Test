@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\2024CSStudy\Class03\bin\Debug\net6.0\Class03.exe
+C:\Users\Administrator\Desktop\2024CSStudy\Class03\bin\Debug\net6.0\Class03.deps.json
+C:\Users\Administrator\Desktop\2024CSStudy\Class03\bin\Debug\net6.0\Class03.runtimeconfig.json
+C:\Users\Administrator\Desktop\2024CSStudy\Class03\bin\Debug\net6.0\Class03.dll
+C:\Users\Administrator\Desktop\2024CSStudy\Class03\bin\Debug\net6.0\Class03.pdb
+C:\Users\Administrator\Desktop\2024CSStudy\Class03\obj\Debug\net6.0\Class03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\2024CSStudy\Class03\obj\Debug\net6.0\Class03.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\2024CSStudy\Class03\obj\Debug\net6.0\Class03.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\2024CSStudy\Class03\obj\Debug\net6.0\Class03.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\2024CSStudy\Class03\obj\Debug\net6.0\Class03.dll
+C:\Users\Administrator\Desktop\2024CSStudy\Class03\obj\Debug\net6.0\refint\Class03.dll
+C:\Users\Administrator\Desktop\2024CSStudy\Class03\obj\Debug\net6.0\Class03.pdb
+C:\Users\Administrator\Desktop\2024CSStudy\Class03\obj\Debug\net6.0\Class03.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\2024CSStudy\Class03\obj\Debug\net6.0\ref\Class03.dll
